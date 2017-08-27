@@ -1,6 +1,6 @@
 # Bayesian Optimization
 
-This package is supplement to the ICDM 2017 submission. Our paper entitled "Bayesian Optimization Approach for Weakly Known Search Space"
+This package is supplement to the ICDM 2017 submission. Our paper entitled "Bayesian Optimization for Weakly Specified Search Space"
 
 We keep our identity as anonymous as possible.
 
@@ -29,4 +29,4 @@ Dr Vu Nguyen, v.nguyen@deakin.edu.au
 
 
 ### Reference:
-Nguyen, Vu, Sunil Gupta, Santu Rana, Cheng Li, and Svetha Venkatesh. "Bayesian Optimization Approach for Weakly Known Search Space" In Data Mining (ICDM), 2017 IEEE 17th International Conference on, accepted. IEEE, 2017.
+Nguyen, Vu, Sunil Gupta, Santu Rana, Cheng Li, and Svetha Venkatesh. "Bayesian Optimization for Weakly Specified Search Space" In Data Mining (ICDM), 2017 IEEE 17th International Conference on, accepted. IEEE, 2017.
