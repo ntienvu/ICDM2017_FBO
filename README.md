@@ -4,12 +4,9 @@ This package is supplement to the ICDM 2017 submission. Our paper entitled "Baye
 
 We keep our identity as anonymous as possible.
 
-Installation
-============
 
 # Installation
 
-In the future, we will put it into github for ease of installation. 
 
 ### Dependencies
 * Numpy
