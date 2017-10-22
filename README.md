@@ -26,4 +26,4 @@ Dr Vu Nguyen, v.nguyen@deakin.edu.au
 
 
 ### Reference:
-Nguyen, Vu, Sunil Gupta, Santu Rana, Cheng Li, and Svetha Venkatesh. "Bayesian Optimization for Weakly Specified Search Space" In Data Mining (ICDM), 2017 IEEE 17th International Conference on, accepted. IEEE, 2017.
+    Nguyen, Vu, Sunil Gupta, Santu Rana, Cheng Li, and Svetha Venkatesh. "Bayesian Optimization for Weakly Specified Search Space" In Data Mining (ICDM), 2017 IEEE 17th International Conference on, accepted. IEEE, 2017.
