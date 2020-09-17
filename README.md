@@ -1,8 +1,5 @@
 # Bayesian Optimization
-
-This package is supplement to the ICDM 2017 submission. Our paper entitled "Bayesian Optimization for Weakly Specified Search Space"
-
-We keep our identity as anonymous as possible.
+Bayesian Optimization for Weakly Specified Search Space
 
 
 # Installation
@@ -26,4 +23,4 @@ Dr Vu Nguyen, vu@ieee.org
 
 
 ### Reference:
-    Vu Nguyen, Sunil Gupta, Santu Rana, Cheng Li, and Svetha Venkatesh. "Bayesian Optimization for Weakly Specified Search Space" In 2017 IEEE International Conference on Data Mining (ICDM), pp. 347-356, 2017.
+    Vu Nguyen, Sunil Gupta, Santu Rana, Cheng Li, and Svetha Venkatesh. "Bayesian Optimization for Weakly Specified Search Space" In IEEE International Conference on Data Mining (ICDM), pp. 347-356, 2017.
